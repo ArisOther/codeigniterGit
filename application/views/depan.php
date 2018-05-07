@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>ini adalah halaman <?php echo $title ?></title>
+	<title>ini adalah halaman ARIS <?php echo $title ?></title>
 	<link rel="stylesheet" href="">
 </head>
 <body>
